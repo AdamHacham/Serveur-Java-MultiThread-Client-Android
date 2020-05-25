@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_checked="true" android:drawable="@xml/ic_directions_car_blackchecked_24dp" />
+    <item android:state_checked="false" android:drawable="@xml/ic_directions_car_black_24dp" />
+
+</selector>
